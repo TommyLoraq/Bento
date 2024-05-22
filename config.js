@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Edu 21',
+			icon: 'panels-top-left',
+			link: 'https://edu.21-school.ru/',
 		},
 		{
 			id: '4',
